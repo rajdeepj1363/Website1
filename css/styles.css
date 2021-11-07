@@ -10,7 +10,7 @@ a
 {
     width: 100px;
 }
-section:not(#footer)
+section:not(#footer):not(#board)
 {
     margin-bottom: 40px;
 }
